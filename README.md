@@ -22,22 +22,22 @@ python manage.py runserver
 # Screenshots 
 
 **Login**
-![login](https://github.com/ExpoPythonist/news_agency/blob/master/image/Login.png)
+![login](https://github.com/ExpoPythonist/news_agency/blob/master/images/Login.png)
 
 **Logout**
-![logout](https://github.com/ExpoPythonist/news_agency/blob/master/image/Logout.png)
+![logout](https://github.com/ExpoPythonist/news_agency/blob/master/images/Logout.png)
 
 **Story Create**
-![story create](https://github.com/ExpoPythonist/news_agency/blob/master/image/Stories_create.png)
+![story create](https://github.com/ExpoPythonist/news_agency/blob/master/images/Stories_create.png)
 
 **Stories Get**
-![stories get](https://github.com/ExpoPythonist/news_agency/blob/master/image/Stories_get.png)
+![stories get](https://github.com/ExpoPythonist/news_agency/blob/master/images/Stories_get.png)
 
 **Story Delete**
-![story delete](https://github.com/ExpoPythonist/news_agency/blob/master/image/Stories_delete.png)
+![story delete](https://github.com/ExpoPythonist/news_agency/blob/master/images/Stories_delete.png)
 
 **Dictionary Create**
-![dictionary create](https://github.com/ExpoPythonist/news_agency/blob/master/image/Dictionary_create.png)
+![dictionary create](https://github.com/ExpoPythonist/news_agency/blob/master/images/Dictionary_create.png)
 
 **Dictionary Get**
-![dictionary get](https://github.com/ExpoPythonist/news_agency/blob/master/image/Dictionary_get.png)
+![dictionary get](https://github.com/ExpoPythonist/news_agency/blob/master/images/Dictionary_get.png)
