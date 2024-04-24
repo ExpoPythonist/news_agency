@@ -34,7 +34,7 @@ python manage.py runserver
 ![stories get](https://github.com/ExpoPythonist/news_agency/blob/master/images/Stories_get.png)
 
 **Story Delete**
-![story delete](https://github.com/ExpoPythonist/news_agency/blob/master/images/Stories_delete.png)
+![story delete](https://github.com/ExpoPythonist/news_agency/blob/master/images/Story_delete.png)
 
 **Dictionary Create**
 ![dictionary create](https://github.com/ExpoPythonist/news_agency/blob/master/images/Dictionary_create.png)
